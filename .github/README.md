@@ -5,7 +5,7 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=killerop12&repo=KILLERMUSIC&theme=flag-india)
 
 [![GIF](https://github.com/killerop12/KILLERMUSIC/blob/main/killerop12.gif)](https://github.com/killerop12)
-   [![𝐌𝐑.𝐃𝐀𝐗𝐗](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")
+   [![𝗠𝗥.𝗞𝗜𝗟𝗟𝗘𝗥](https://github-stats-alpha.vercel.app/api?username=killerop12 "MRKILLER")](https://github-stats-alpha.vercel.app/api?username=killerop12 "MRKILLER")
 
 
 
